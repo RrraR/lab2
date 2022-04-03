@@ -1,0 +1,15 @@
+C:\Users\tanja\Documents\uni\4 сем\ксис\TracertApp\lab2\bin\Debug\lab2.exe.config
+C:\Users\tanja\Documents\uni\4 сем\ксис\TracertApp\lab2\bin\Debug\lab2.exe
+C:\Users\tanja\Documents\uni\4 сем\ксис\TracertApp\lab2\bin\Debug\lab2.pdb
+C:\Users\tanja\Documents\uni\4 сем\ксис\TracertApp\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\Users\tanja\Documents\uni\4 сем\ксис\TracertApp\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\tanja\Documents\uni\4 сем\ксис\TracertApp\lab2\obj\Debug\lab2.exe
+C:\Users\tanja\Documents\uni\4 сем\ксис\TracertApp\lab2\obj\Debug\lab2.pdb
+C:\Users\tanja\Documents\uni\4 сем\ксис\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\tanja\Documents\uni\4 сем\ксис\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\tanja\Documents\uni\4 сем\ксис\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\tanja\Documents\uni\4 сем\ксис\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\Users\tanja\Documents\uni\4 сем\ксис\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\tanja\Documents\uni\4 сем\ксис\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\tanja\Documents\uni\4 сем\ксис\lab2\lab2\obj\Debug\lab2.pdb
+C:\Users\tanja\Documents\uni\4 сем\ксис\lab2\lab2\obj\Debug\lab2.csproj.SuggestedBindingRedirects.cache

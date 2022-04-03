@@ -1,0 +1,14 @@
+D:\Мои файлы\CSharp\TracertApp\TracertApp\bin\Debug\TracertApp.exe.config
+D:\Мои файлы\CSharp\TracertApp\TracertApp\bin\Debug\TracertApp.exe
+D:\Мои файлы\CSharp\TracertApp\TracertApp\bin\Debug\TracertApp.pdb
+D:\Мои файлы\CSharp\TracertApp\TracertApp\obj\Debug\TracertApp.csprojAssemblyReference.cache
+D:\Мои файлы\CSharp\TracertApp\TracertApp\obj\Debug\TracertApp.csproj.CoreCompileInputs.cache
+D:\Мои файлы\CSharp\TracertApp\TracertApp\obj\Debug\TracertApp.exe
+D:\Мои файлы\CSharp\TracertApp\TracertApp\obj\Debug\TracertApp.pdb
+C:\Users\tanja\Documents\uni\4 сем\ксис\TracertApp\TracertApp\bin\Debug\TracertApp.exe.config
+C:\Users\tanja\Documents\uni\4 сем\ксис\TracertApp\TracertApp\bin\Debug\TracertApp.exe
+C:\Users\tanja\Documents\uni\4 сем\ксис\TracertApp\TracertApp\bin\Debug\TracertApp.pdb
+C:\Users\tanja\Documents\uni\4 сем\ксис\TracertApp\TracertApp\obj\Debug\TracertApp.csproj.AssemblyReference.cache
+C:\Users\tanja\Documents\uni\4 сем\ксис\TracertApp\TracertApp\obj\Debug\TracertApp.csproj.CoreCompileInputs.cache
+C:\Users\tanja\Documents\uni\4 сем\ксис\TracertApp\TracertApp\obj\Debug\TracertApp.exe
+C:\Users\tanja\Documents\uni\4 сем\ксис\TracertApp\TracertApp\obj\Debug\TracertApp.pdb
