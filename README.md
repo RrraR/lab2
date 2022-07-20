@@ -1,3 +1,2 @@
 # lab2
-Ksis-lab2
-BSUIR-csan-ksis-traceroute
+BSUIR-CSan-KSiS-lab2-traceroute
